@@ -1,7 +1,7 @@
 /*//////////////////////////////////////////////////////////////////
 [ FONT ]*/
 
-@font-face {
+/* @font-face {
   font-family: Montserrat-Regular;
   src: url("../fonts/montserrat/Montserrat-Regular.ttf");
 }
@@ -19,12 +19,12 @@
 @font-face {
   font-family: Montserrat-Medium;
   src: url("../fonts/montserrat/Montserrat-Medium.ttf");
-}
+} */
 
 /*//////////////////////////////////////////////////////////////////
 [ RESTYLE TAG ]*/
 
-* {
+/* * {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
@@ -34,10 +34,10 @@ body,
 html {
   height: 100%;
   font-family: Montserrat-Regular, sans-serif;
-}
+} */
 
 /*---------------------------------------------*/
-a {
+/* a {
   font-family: Montserrat-Regular;
   font-size: 14px;
   line-height: 1.7;
@@ -56,10 +56,10 @@ a:focus {
 a:hover {
   text-decoration: none;
   color: #57b846;
-}
+} */
 
 /*---------------------------------------------*/
-h1,
+/* h1,
 h2,
 h3,
 h4,
@@ -80,7 +80,7 @@ ul,
 li {
   margin: 0px;
   list-style-type: none;
-}
+} */
 
 /*---------------------------------------------*/
 input {
